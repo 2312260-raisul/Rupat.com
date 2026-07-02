@@ -1,0 +1,6 @@
+{
+  "name": "RUPAT Cosmetics",
+  "description": "A premium e-commerce storefront and store management panel for RUPAT, a luxury cosmetics brand featuring role-based access control, rich financial dashboards, inventory alerts, and advanced product filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
